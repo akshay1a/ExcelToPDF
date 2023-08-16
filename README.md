@@ -11,6 +11,8 @@ Excel To PDF Converter.
   4. Create multiple PDF with the excel data
   5. Customize Footer
 
+**Note: You can commit changes to code to make your own versions of PDFs. Code is really understandable**
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
